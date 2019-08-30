@@ -25,7 +25,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['78c837d3e5d34558a6cde1d0afca876c.vfs.cloud9.us-east-1.amazonaws.com']
+ALLOWED_HOSTS = ['78c837d3e5d34558a6cde1d0afca876c.vfs.cloud9.us-east-1.amazonaws.com', 'mpark-django2-blog.herokuapp.com']
 
 
 # Application definition
